@@ -1,1 +1,1 @@
-# tf-ocr-eval
+# Sequence-level Text Recognition's TF2 Evaluator 
